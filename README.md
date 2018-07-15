@@ -1,6 +1,6 @@
 
 # Resume-image-Upload
-##### This is a Image and Resume  Upload Application developed in React.js.
+#####  Image and Resume  Upload Application developed in React.js.
 -------------------------------------------------------------------------------
 ### Getting Started
 ###### These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -16,15 +16,15 @@ A step by step  guide that tell you how to get a development env running
 ```sh
  $ git clone https://github.com/Ritzrawal/Resume-image-Upload.git
 ```
-**_`Navigate to project directory`_**
-```sh
+**_`Run the project_**
+```
  $ cd Resume-image-Upload
  $npm install
  $ npm start
  
  #### **Simple build for production** ####
 
-```sh
+```
  $ npm run build 
 ```
 
