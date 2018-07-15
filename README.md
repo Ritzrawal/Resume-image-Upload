@@ -22,11 +22,6 @@ A step by step  guide that tell you how to get a development env running
  $npm install
  $ npm start
  
- #### **Simple build for production** ####
-
-```
- $ npm run build 
-```
 
 
 
