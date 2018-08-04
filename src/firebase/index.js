@@ -1,7 +1,6 @@
 import firebase from 'firebase/app';
 import 'firebase/storage';
-
-  // Initialize Firebase
+//initilizing the firebase
   var config = {
     apiKey: "AIzaSyAwWVCfmhMYoMxm-2l8UaZPp0kq5hzHlK4",
     authDomain: "codechallange-9470d.firebaseapp.com",
